@@ -123,6 +123,13 @@
     border: 2px solid var(--fg-color);
   }
   */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   
   .letter-row {
     display: flex;
